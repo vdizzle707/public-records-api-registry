@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "input_query": "431 Chablis Dr, Ukiah, CA 95482",
+    "input_type": "SPATIAL_SITUS",
+    "timestamp": "2026-10-06 22:59:53 UTC",
+    "summary": "APN: 170-132-21-00; Elev: 632.4 ft; FEMA Flood Zone X; CalFire LRA Non-VHFHSZ; FIPS 06045; Ukiah Municipal Water/Sewer."
+  },
+  {
+    "id": 2,
+    "input_query": "Christina Morgan Simmons",
+    "input_type": "ENTITY_PERSON",
+    "timestamp": "2026-10-06 22:59:53 UTC",
+    "summary": "Age ~35; UPD Case #24-1590 (Arrested 2024-08-02 @ 615 Talmage Rd, Ukiah); Bail $51,000; Mendocino County Jail; H&S 11351, 11352(a), 11359(b), 11360, PC 1203.2(a); Assessor: No fee-simple parcel title."
+  },
+  {
+    "id": 3,
+    "input_query": "Jason Mills",
+    "input_type": "ENTITY_PERSON",
+    "timestamp": "2026-10-06 22:59:53 UTC",
+    "summary": "Age ~50 (Ukiah/Mendocino); Ecological / Forestry Specialist (Ecological Concerns Inc. / RCD); Municipal Incident Index (PC 490.5); Assessor: No fee-simple parcel title registered in Ukiah."
+  },
+  {
+    "id": 4,
+    "input_query": "Christina Morgan Simmons",
+    "input_type": "PERSON",
+    "timestamp": "2026-10-06 23:00:17 UTC",
+    "summary": "UPD Case # 24-1590; Arrest: 2024-08-02 @ 615 Talmage Rd, Ukiah; Mendocino County Jail bail $51,000; Charges: H&S 11351 (Felony), 11352(a) (Felony), 11359(b), 11360, PC 1203.2(a); Property: No secured parcel roll in Mendocino Assessor."
+  },
+  {
+    "id": 5,
+    "input_query": "Jason Mills",
+    "input_type": "PERSON",
+    "timestamp": "2026-10-06 23:00:17 UTC",
+    "summary": "Entity: Jason Mills (~50, Ukiah); Regional: Ecological / forestry speaker profile; Municipal: Historical PC 490.5 local citation record; Property: No primary fee-simple parcel title registered in Ukiah."
+  }
+]

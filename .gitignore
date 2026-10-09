@@ -1,0 +1,14 @@
+*.db
+*.sqlite3
+__pycache__/
+*.pyc
+.env
+*.env
+production_config.env
+
+# Generated artifacts & local databases
+*.pdf
+*.geojson
+*.db
+*.log
+*.csv
